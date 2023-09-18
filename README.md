@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JerilJoy1310
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning Python,Java, Machine Learning, WebDesigning
+- 🌱 I’m currently working on Python,Java, Machine Learning, HTML, CSS
 - 💞️ I’m looking to collaborate on software based companies
 - 📫 How to reach me jeriljoyjoseph2000@gmail.com (my personal mail id)
 
