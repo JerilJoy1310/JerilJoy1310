@@ -10,83 +10,84 @@
 ---
 
 ### 🚀 About Me
-- 🎓 B.Tech (Honours) in ECE | Minor in ML  
-- 💼 Assistant Manager – Operations & Tech @ CareerTiQ  
-- 🧠 Passionate about Data Engineering, DevOps, AI/ML & Cloud Automation  
-- 💡 Building impactful solutions in enterprise tools, healthcare tech, and education  
-- 🌍 Kerala, India | 🧑‍💻 [Portfolio](https://jeriljoy1310.github.io/JerilJoyJosephPortfolio/)
+- B.Tech (Honours) in Electronics & Communication | Minor in Machine Learning  
+- Assistant Manager – Tech & Operations @ CareerTiQ  
+- Passionate about AI, DevOps, Agentic AI, and solving real-world problems  
+- Focused on building intelligent applications in education, healthcare, travel, and finance  
+- Kerala, India | [Portfolio](https://jeriljoy1310.github.io/JerilJoyJosephPortfolio/)
 
 ---
 
-### 📌 Featured Repositories
+### 💻 Core Technical Skills
 
-#### 🔌 smart-meter-iot (May 2024)
-IoT-based energy tracking system using NodeMCU & PZEM-004T for smart voltage monitoring.  
-**Tech:** ESP8266, Blynk, C++, PCB  
-[Repo ➜](https://github.com/JerilJoy1310/MultiparameterVoltageSensingDevice)
-
-#### 🌍 language-detector-nlp (Apr 2024)
-Detects 22 languages in real time using NLP classifiers (SVM, Naive Bayes).  
-**Tech:** Python, TextBlob, Scikit-learn  
-[Repo ➜](https://github.com/JerilJoy1310/MultipleLanguageDetectionTool)
-
-#### 🧪 gc-monitoring-system (Mar 2024)
-Arduino-based biosensor to detect Glucose, Creatinine, Urea in <60 sec  
-**Tech:** Arduino, OLED, Embedded C  
-[Repo ➜](https://github.com/JerilJoy1310/A-Multiparameter-Glucose-Monitoring-System)
-
-#### 💬 teams-automation-suite (Feb 2024)
-Built automation tools, bots, and dashboards inside Microsoft Teams  
-**Tech:** React.js, Node.js, Graph API  
-[Repo ➜](https://github.com/JerilJoy1310)
+**Languages:** Python, SQL, JavaScript, C++, HTML5, CSS3, Shell  
+**AI/ML Frameworks:** Scikit-learn, TensorFlow, LangChain, HuggingFace, XGBoost, SHAP  
+**Agentic AI Stack:** Sentence Transformers, FAISS, Pinecone, OpenAI APIs, Streamlit, LangChain  
+**Big Data & ETL:** PySpark, Apache Airflow, AWS S3, Snowflake, MySQL, Azure Data Factory  
+**Visualization:** Power BI, Plotly, Tableau, Grafana, Kibana  
+**Web & API Development:** FastAPI, Flask, React.js, Node.js, REST APIs  
+**DevOps & Cloud:** Docker, GitHub Actions, Firebase, Azure, AWS Lambda  
+**Automation Tools:** Microsoft Graph API, VBA, Git, MLflow, Jenkins
 
 ---
 
-### 🌐 Most Used Languages & Tools
+### 🔍 Featured Agentic AI Projects
 
-- 🐍 `Python` – Data pipelines, dashboards, automation, and AI/ML  
-- 🌐 `HTML/CSS/JS` – Web portals, React apps, Microsoft Teams dashboards  
-- ⚙️ `C++` – Firmware and sensor device interfacing  
-- 🧠 `Jupyter` – ML experiments, AI training modules  
-- 🧮 `SQL` – Data analytics using MySQL and Snowflake  
-- 📘 `MATLAB` – Academic modeling and simulations  
-- 🧩 `Graph API`, `YAML`, `Shell` – Automation and DevOps  
-- ☁️ `AWS`, `Azure`, `Docker` – Deployment and scalability  
-- 🔧 `Verilog`, `Firebase`, `Power BI`, `GitHub Copilot`  
+#### 🧠 CiteMate – Agentic Research Assistant  
+Ask questions and retrieve cited answers from real research papers using OpenAI, FAISS & LangChain.  
+[Code ➜](https://github.com/JerilJoy1310/CiteMate)
 
+#### 📊 Agentic Financial Advisor  
+Real-time financial dashboard powered by OpenAI and yFinance APIs to analyze stock performance and budget.  
+[Code ➜](https://github.com/JerilJoy1310/Agentic-Financial-Advisor)
 
+#### 🌍 WanderMate v2 – AI Travel Planner  
+Smart trip planner using OpenAI, live maps, hotel/flight APIs, budget visualization, and destination suggestions.  
+[Code ➜](https://github.com/JerilJoy1310/WanderMate-AI)
 
-### 🧠 GitHub Activity Summary (Boosted View)
+---
 
-| 🏅 Metric               | 📊 Value                            |
-|------------------------|-------------------------------------|
-| 🔥 Total Contributions | **3,133+**                          |
-| 🔁 Current Streak       | **15 Days** (Jun 22 – Jul 6)         |
-| 🕰️ Longest Streak      | **196 Days** (Apr – Oct 2023)       |
+### 📦 Other Notable Projects
 
+- **smart-meter-iot** – IoT-based multiparameter voltage monitoring system using ESP8266  
+  [Repo ➜](https://github.com/JerilJoy1310/MultiparameterVoltageSensingDevice)
+
+- **language-detector-nlp** – Language detection from 22+ languages using SVM & Naive Bayes  
+  [Repo ➜](https://github.com/JerilJoy1310/MultipleLanguageDetectionTool)
+
+- **gc-monitoring-system** – Arduino biosensor to detect Glucose, Creatinine, and Urea in <60 sec  
+  [Repo ➜](https://github.com/JerilJoy1310/A-Multiparameter-Glucose-Monitoring-System)
+
+- **teams-automation-suite** – Integrated tools & bots for Microsoft Teams (Graph API + Node.js)  
+  [Repo ➜](https://github.com/JerilJoy1310)
+
+- **velvetvueevents.com** – Frontend for event ticketing and UI interface  
+  [Repo ➜](https://github.com/JerilJoy1310/velvetvueevents.com)
 
 ---
 
 ### 🏆 Achievements
-- 🥇 2× Best Employee of the Month – CareerTiQ  
-- 🚀 Promoted to Assistant Manager in < 8 months  
-- 👨‍🏫 Delivered 20+ AI/ML workshops to 4000+ learners  
-- 🛠️ Built 10+ dashboards, IoT tools, and bots  
-- 🌍 Recognized by IIST, SCTIMST & Microsoft Azure Build Challenge  
+
+- 🏅 2× Best Employee of the Month – CareerTiQ  
+- 🚀 Promoted to Assistant Manager in under 8 months  
+- 👨‍🏫 Trained 5000+ students in AI, ML, AR/VR across India  
+- 🛠️ Designed 10+ dashboards, IoT devices, and LLM apps  
+- 🏛️ Recognized by IIST, SCTIMST & Microsoft Azure Build Challenge  
 
 ---
 
-### 🔍 Explore More Projects
-| Repository | Description | Link |
-|------------|-------------|------|
-| `JerilJoyJosephPortfolio` | Your portfolio site in HTML/CSS | [GitHub](https://github.com/JerilJoy1310/JerilJoyJosephPortfolio) |
-| `100DaysOfRTL` | RTL coding challenge (Verilog/VHDL) | [GitHub](https://github.com/JerilJoy1310/100daysofRTL) |
-| `velvetvueevents.com` | Frontend for event mgmt UI | [GitHub](https://github.com/JerilJoy1310/velvetvueevents.com) |
+### 📘 GitHub Activity Snapshot
+
+| Metric               | Value               |
+|----------------------|---------------------|
+| Total Contributions | 3,133+              |
+| Current Streak      | 15 Days (Jun–Jul)   |
+| Longest Streak      | 196 Days (Apr–Oct)  |
 
 ---
 
-### 📬 Let’s Connect
-Feel free to reach out!  
-📧 jeriljoyjoseph2000@gmail.com | 🌐 [LinkedIn](https://linkedin.com/in/jeril-joy-joseph)
+### 📬 Let's Connect
+If you're building with AI, DevOps, Agentic AI, or Education Tech — let’s collaborate.  
+📧 jeriljoyjoseph2000@gmail.com | [LinkedIn](https://linkedin.com/in/jeril-joy-joseph)
 
 ---
