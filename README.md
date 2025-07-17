@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeril Joy Joseph</h1>
-<h3 align="center">Assistant Manager | AI/ML Engineer | Data & DevOps Enthusiast</h3>
+<h3 align="center">Assistant Manager | AI/ML Engineer | Agentic AI Enthusiast</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jeril-joy-joseph/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
