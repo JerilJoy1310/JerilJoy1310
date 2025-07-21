@@ -14,7 +14,7 @@
 - Assistant Manager – Tech & Operations @ CareerTiQ  
 - Passionate about AI, DevOps, Agentic AI, and solving real-world problems  
 - Focused on building intelligent applications in education, healthcare, travel, and finance  
-- Kerala, India | [Portfolio](https://jeriljoy1310.github.io/JerilJoyJosephPortfolio/)
+- Kerala, India | [Portfolio](https://jeriljoy1310.github.io/JerilJoyPortfolio/)
 
 ---
 
