@@ -4,7 +4,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/jeril-joy-joseph/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin" /></a>
   <a href="mailto:jeriljoyjoseph2000@gmail.com"><img src="https://img.shields.io/badge/Email-jeriljoyjoseph2000@gmail.com-red?style=flat&logo=gmail" /></a>
-  <a href="https://jeriljoy1310.github.io/JerilJoyJosephPortfolio/"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=githubpages" /></a>
+  <a href="https://jeriljoyjoseph.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=flat&logo=githubpages" /></a>
 </p>
 
 ---
@@ -14,7 +14,7 @@
 - Assistant Manager – Tech & Operations @ CareerTiQ  
 - Passionate about AI, DevOps, Agentic AI, and solving real-world problems  
 - Focused on building intelligent applications in education, healthcare, travel, and finance  
-- Kerala, India | [Portfolio](https://jeriljoy1310.github.io/JerilJoyPortfolio/)
+- Kerala, India | [Portfolio](https://jeriljoyjoseph.com)
 
 ---
 
